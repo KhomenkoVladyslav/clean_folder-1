@@ -5,7 +5,7 @@ setup(
     version="1",
     description="it sorts folders",
     url="https://github.com/anilev6/clean_folder",
-    author="Ann",
+    author="Ani",
     license="kek",
     packages=find_namespace_packages(),
     install_requires=["markdown"],
