@@ -10,6 +10,7 @@
 3. Launch `clean-folder` + `full\folder\to\clean\path` in terminal
 
 **warning1: do not launch this script in folders that may contain unpacked unexamined archives**
+
 **warning2: overrights a file with the same name as one it's tying to move** 
 
 # what does it do?

@@ -206,7 +206,6 @@ def main(p):
 
 
 def launch():
-
     if len(sys.argv) == 2:
         try:
             p = Path(sys.argv[1])
@@ -222,4 +221,3 @@ def launch():
             print("something went wrong! please check your path input")
     else:
         print("Please enter 'clean-folder *a directory to sort here*' ")
-            
